@@ -55,3 +55,33 @@ console.log(test);
 //kopiryem ssilky -> git clone ssilka kotoryyu skopirovali->enter
 
 
+//hw 3
+/**
+ * #1 
+ * sprosit' s pomowyu prompt y polzovatelya 2 chisla i zapisat' ih v peremennie.
+ * sravnit' polychenie chisla.
+ * S pomowyu alert vivesti na ekran soobwenie o tom, kakoe chislo bol'we. Esli chisla ravni- soobwit', chto chisla ravni
+ * Naprimer:
+ * -Pol'zovatel' vvel chisla 2 i 5- vivesti na ekran soobwenie: Chislo 5 bol'we,  chem chislo 2
+ * -Pol'zovatel'vvel chisla 10 i 10- vvivesti na ekran soobwenie: Chisla ravni
+ * Podskazka- Vospol'zyutes' yslovnim operatorom if. Dlya togo chtobi vivesti itogovoe soobwenie, vam ponadobitsaa konkatenaciya strok. Esli interesno pochitaute pro sintaksis shablonih strok v js i vospol'zyutes im vmesto konkatenacii
+ * 
+ * #2
+ * Realizovat' kal'kylyator ispol'zyya prompt i alert.
+ * 1. Posledovatel'no sprosit' y pol'zovatelya dva chisla i jelaemoe deustvie.
+ * 2.Deustviya mogyt bit' + - * /
+ * 3.Vipolnit' matematucheskyu operaciyu c polychenimi  znacheniyami
+ * 4.Rezyl'tat pokazat' pol'zovatelyu
+ * Podskazka: Vdannom Zadanii ispol'zyute operator switch case
+ * 
+ * #3
+ * Napishi prostyyu programmy dopyskaposetiteleu na americanskie gorki. Neobhodimo sprosit' y pol'zovatellya vozrast, daleeproanalizirovat' i dat' emy otvet o dopyske na attrakcion
+ * Vozmognie varianti:
+ * -pensioneram (60-80 let) i podrostkam (12-18 let) dostyp razreshen s razresheniya vzroslih. Po etomy esli vozrast posetitelya nahoditsa v ykazannih vozrastnih diapazonah, to nyzno dopolnitel'no sprosit' ego o razreshenii ot vzroslih
+ * -vzroslim vhod razrewen
+ * -detyam i ochen' pogilim lyudyam vhod zaprewen
+ * Podskazka: dlya obrabotki pervogo varianta vi mogete ispol'zovat' yslovniu operator if vnytri drygogo, to est' vospol'zovat'sa vlogenou konstrykcieu
+ */
+
+
+
